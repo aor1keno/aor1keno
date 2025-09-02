@@ -5,6 +5,8 @@
 ### discord: aorikeno
 ### telegram: https://t.me/aorich61
 
+https://cdn.discordapp.com/attachments/984972762508574791/1393289630278750388/GtKGvNQ.gif?ex=68b7d855&is=68b686d5&hm=d1be7bf8e82909168c75c4f5c98c7859d37e333cd17eb0936b2b2e07a015263b&
+
 <!--
 **aor1keno/aor1keno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
