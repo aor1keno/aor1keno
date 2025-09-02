@@ -1,4 +1,9 @@
-## Hi there 👋
+## wassup 👋
+
+- 🌱 I’m currently learning GO
+
+### discord: aorikeno
+### telegram: https://t.me/aorich61
 
 <!--
 **aor1keno/aor1keno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
