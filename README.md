@@ -7,7 +7,7 @@
 ### telegram: https://t.me/aorich61
 
 ## My skills:
-<img src="https://tenor.com/view/masoncord-cat-dance-minion-funny-gif-15380777836559993216" alt="Computer man" style="width:200px;height:200px;">
+<img src="https://tenor.com/view/masoncord-cat-dance-minion-funny-gif-15380777836559993216" alt="Computer man">
 
 <!--
 **aor1keno/aor1keno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
