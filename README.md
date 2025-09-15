@@ -7,7 +7,7 @@
 ### telegram: https://t.me/aorich61
 
 ## My skills:
-<img src="https://tenor.com/view/mushoku-tensei-eris-boreas-greyrat-eris-mt-cute-gif-20837343" alt="pupue" style="width:48px;height:48px;">
+<img src="[https://tenor.com/view/mushoku-tensei-eris-boreas-greyrat-eris-mt-cute-gif-20837343](https://media1.tenor.com/m/zIT99Jz4TYsAAAAd/mushoku-tensei-eris-boreas-greyrat.gif)" alt="pupue" style="width:48px;height:48px;">
 
 <!--
 **aor1keno/aor1keno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
