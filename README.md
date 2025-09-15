@@ -7,7 +7,7 @@
 ### telegram: https://t.me/aorich61
 
 ## My skills:
-![Demo](https://cdn.discordapp.com/attachments/984972762508574791/1393289630278750388/GtKGvNQ.gif?ex=68b7d855&is=68b686d5&hm=d1be7bf8e82909168c75c4f5c98c7859d37e333cd17eb0936b2b2e07a015263b&)
+<img src="https://cdn.discordapp.com/attachments/1412178654019977226/1412428987178680370/copy_A5FEFFE5-E7A5-4E13-82DD-7EBFB219879B.gif?ex=68c96600&is=68c81480&hm=5e91bbe57062aaf02250b2e4e5788410228cd4dff1d374c84bda01cc5899eb77&" alt="Computer man" style="width:48px;height:48px;">
 
 <!--
 **aor1keno/aor1keno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
