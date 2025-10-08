@@ -1,7 +1,7 @@
 ## wassup 👋
 
 - 🌱 I’m currently learning GO and Py
-- pupue
+- 👻 pupue
 
 ### discord: aorikeno
 ### telegram: https://t.me/aorich61
