@@ -1,6 +1,6 @@
 ## wassup 👋
 
-- 🌱 I’m currently learning GO
+- 🌱 I’m currently learning GO and Py
 - pupue
 
 ### discord: aorikeno
